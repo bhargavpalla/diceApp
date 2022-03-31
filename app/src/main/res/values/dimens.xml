@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standard">170dp</dimen>
+    <dimen name="img_pad">12dp</dimen>
+    <dimen name="btn_wdt">150dp</dimen>
+    <dimen name="btn_ht">50dp</dimen>
+</resources>
